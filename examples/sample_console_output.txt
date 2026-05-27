@@ -1,0 +1,15 @@
+PS C:\Users\----\Documents\Projects\OneNote Fixes> & '.\1note2json_batch.ps1'
+Converting Copied.one ...
+Loading file C:\Users\----\Documents\Projects\OneNote Fixes\OneNote Notebooks W11HP840\Copied.one...done
+Making JSON file C:\Users\----\Documents\Projects\OneNote Fixes\OneNote Notebooks W11HP840\JSON\Copied.json...OK PAGE: {{7C21B6B5-47DF-4592-A882-AA9FBAC16277},1}
+OK PAGE: {{D8EF7C1D-CC9C-43FC-8F32-99C5318FCAA9},1}
+OK PAGE: {{C55A4EAA-8670-4DCF-8CA7-4821F2651C67},1}
+OK PAGE: {{932E6BA9-4F07-4F20-8977-A81D16A60B6A},1}
+OK PAGE: {{E8A367E0-97B8-42A1-A5A9-856076AE3C4C},1}
+OK PAGE: {{071EBEC2-FDD3-4AA5-8784-E7B6473810F8},1}
+OK PAGE: {{E614B455-8CF4-4337-9A47-703310EEDCAD},1}
+
+🔥 FAILED PAGE: {{D8B4394B-4357-4A36-9142-534327C89B1A},1}
+ERROR: 'NoneType' object has no attribute 'MakeJsonNode'
+OK PAGE: {{F1D4FF4A-35D3-451A-9347-3E4D7A0A0CAE},1}
+done
