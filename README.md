@@ -263,7 +263,7 @@ For Pareto page sizes to reduce OneDrive use on shared notebooks
                   
   ---                                                                                                                                                                   
  
-###powershell/1note2json_batch.ps1 and Json_title_size_compare_Batch_newline.ps1
+### powershell/1note2json_batch.ps1 and Json_title_size_compare_Batch_newline.ps1
                                                                                                                                                            
   Simpler hardcoded variants of the above scripts with paths baked in. Useful as
   a starting point if you prefer to edit paths directly rather than pass                                                                                                
